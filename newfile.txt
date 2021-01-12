@@ -1,0 +1,6 @@
+	alice	:	apr1
+	bob	:	aug28
+	amanda	:	jan30
+	mostafa	:	2001
+	nermein	:	1991
+	aya	:	1991
